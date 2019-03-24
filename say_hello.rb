@@ -1,4 +1,4 @@
-require_relative 
+require_relative '../say_hello'
 
 def say_hello(name = "Gabriela")
   puts "Hello #{"name"}
